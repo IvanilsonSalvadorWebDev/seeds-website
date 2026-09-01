@@ -8,8 +8,8 @@ const links = [
 export default function Navbar() {
   return (
     <header className="fixed top-0 inset-x-0 z-50">
-      <div className="mx-3 mt-3 md:mx-6 md:mt-4 backdrop-blur-md bg-ink border border-black/5 rounded-pod-sm shadow-sm">
-        <nav className="flex items-center justify-between px-5 py-3 md:px-7 md:py-4">
+      <div className="mx-3 mt-3 md:mx-6 md:mt-2 backdrop-blur-md bg-ink border border-black/5 rounded-pod-sm shadow-sm">
+        <nav className="flex items-center justify-between px-5 py-3 md:px-7 md:py-2">
           <a href="#top" className="font-display text-2xl md:text-[26px] font-semibold tracking-tight text-yellow-500 p-2 ">
             seeds
           </a>
