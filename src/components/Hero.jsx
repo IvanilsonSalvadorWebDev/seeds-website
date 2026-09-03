@@ -8,11 +8,7 @@ export default function Hero() {
       id="top"
       className="relative overflow-hidden pt-24 pb-16 md:pt-28 md:pb-20 bg-ink text-cream min-h-[550px] flex items-center justify-center"
     >
-      {/* Importação do stylesheet da Devicon */}
-      <link
-        rel="stylesheet"
-        href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"
-      />
+      
 
       {/* ================= ÍCONES DEV ESPELHADOS EM REDOR ================= */}
 
