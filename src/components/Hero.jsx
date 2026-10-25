@@ -8,7 +8,7 @@ export default function Hero() {
       id="top"
       className="relative overflow-hidden pt-24 pb-16 md:pt-28 md:pb-20 bg-ink text-cream min-h-[550px] flex items-center justify-center"
     >
-      
+
 
       {/* ================= ÍCONES DEV ESPELHADOS EM REDOR ================= */}
 
@@ -82,8 +82,8 @@ export default function Hero() {
         
         {/* H1 no tamanho intermédio ideal */}
         <h1 className="font-display text-4xl sm:text-5xl md:text-7xl font-semibold leading-[1.05]">
-          Ajudamos voce a mostrar ao mundo
-           o que o seu <br className="hidden md:block" /> negocio faz
+          Damos vida ao
+            <br className="hidden md:block" /> negocio
         </h1>
         
         <p className="mt-5 text-cream/70 text-base md:text-lg max-w-xl mx-auto leading-relaxed">

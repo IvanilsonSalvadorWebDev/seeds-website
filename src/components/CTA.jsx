@@ -27,7 +27,7 @@ export default function CTA() {
 
           {/* Botão WhatsApp (Equivalente em tom Emerald/Verde Escuro Elegante) */}
           <a
-            href="https://wa.me/351000000000" 
+            href="https://wa.me/937026331" 
             target="_blank"
             rel="noopener noreferrer"
             className="bg-emerald-600 hover:bg-emerald-500 text-white font-semibold px-7 py-3.5 rounded-pod-sm text-[15px] hover:-translate-y-0.5 transition-all inline-flex items-center gap-2 shadow-sm"

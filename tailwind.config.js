@@ -4,6 +4,20 @@ export default {
   theme: {
     extend: {
       colors: {
+        // Escala inspirada na imagem em gradiente de azul
+        ocean: {
+          50: '#E6F8FF',
+          100: '#B3EDFF',
+          200: '#80DFFF',
+          300: '#4DCFFF',
+          400: '#00C0FF', // Ciano / Ponto de luz (superior direito)
+          500: '#00A3FF', // Azul vibrante
+          DEFAULT: '#0077FF', // Azul Cerúleo principal (tom médio)
+          600: '#0077FF',
+          700: '#004CE6', // Azul Royal
+          800: '#002BB8', // Azul Escuro (base inferior)
+          900: '#001254', // Azul Profundo
+        },
         seed: {
           orange: '#FF8A00',
           orangeDark: '#E36F00',

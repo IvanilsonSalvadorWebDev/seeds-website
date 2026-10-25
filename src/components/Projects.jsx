@@ -14,9 +14,9 @@ const projects = [
     shape: 'rounded-pod',
   },
   {
-    name: 'Vento Sul',
-    category: 'Site institucional',
-    desc: 'Presença digital para uma consultora de arquitetura e engenharia.',
+    name: 'Kiwi',
+    category: 'Loja Ecommerce',
+    desc: 'Implementacao de uma loja online de venda de perfumes.',
     // Nova imagem correspondente à arquitetura moderna (image_SwNl8e.png)
     img: 'https://unsplash.com',
     alt: 'Estúdio de arquitetura e engenharia, projeto Vento Sul',

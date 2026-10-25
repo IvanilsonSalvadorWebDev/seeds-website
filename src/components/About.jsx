@@ -26,7 +26,7 @@ export default function About() {
             <p className="font-display text-2xl md:text-3xl font-semibold text-yellow-600">
               2 anos
             </p>
-            <p className="text-xs text-ink-soft mt-1">a fazer negócios crescerem online</p>
+            <p className="text-xs text-ink-soft mt-1">a fazer negócios crescerem online em Angola </p>
           </div>
         </div>
 
